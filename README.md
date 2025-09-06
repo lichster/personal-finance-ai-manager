@@ -76,3 +76,6 @@ O agente entrega ao usuário relatórios claros, cortes mensuráveis e planos de
 Acesse a solução:
 [https://chatgpt.com/g/g-68b995c7d0848191b4fd8c34236bddea-guardiao-do-bolso?model=gpt-5](https://chatgpt.com/g/g-68b995c7d0848191b4fd8c34236bddea-guardiao-do-bolso)
 ```
+
+
+Gratidão a Logun Edé — caminho e equilíbrio.
