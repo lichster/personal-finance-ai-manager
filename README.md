@@ -44,3 +44,31 @@ Os outputs são apresentados em Markdown estruturado, para clareza e aplicabilid
 | Dívidas        | 1.300,00   | Cartão + empréstimo |
 | Reserva        | 500,00     | Tesouro Selic |
 | Lazer          | 600,00     | Viagem e restaurantes |
+```
+
+## Considerações de Design
+
+Transparência: cada recomendação vem acompanhada de justificativa técnica.
+
+Proatividade: cobra dados faltantes e sinaliza inconsistências.
+
+Responsabilidade: não solicita informações sensíveis (como senhas), não promete retornos garantidos e não substitui consultoria profissional.
+
+## Resultado
+
+O resultado é um gestor financeiro virtual pragmático, combinando a flexibilidade de um LLM com metodologia estruturada.
+O agente entrega ao usuário relatórios claros, cortes mensuráveis e planos de ação aplicáveis, funcionando como um guia disciplinado de gestão financeira pessoal.
+
+## Roadmap Futuro
+
+ Integração com dashboards visuais.
+
+ Exportação em CSV/Excel.
+
+ Versão em app móvel.
+
+ Integração com APIs de mercado financeiro.
+
+ 
+---
+
